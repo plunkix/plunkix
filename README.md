@@ -2,7 +2,7 @@
 
 ### 🔥 About Me
 - 🎮 **Game Developer** — Currently building *Glitch Descent*, a text-based cyberpunk roleplay game focused on immersive storytelling and player choices.
--🌱 GermiNet Founder — Creating an advanced platform that leverages Computer Vision to drive smarter, more sustainable farming solutions.
+- 🌱 GermiNet Founder — Creating an advanced platform that leverages Computer Vision to drive smarter, more sustainable farming solutions.
 - 💬 **Mental Health Advocate** — Building *SpiderCare*, a mental health chatbot designed to support students navigating academic stress and personal challenges.
 
 ### 💡 Focus Areas
