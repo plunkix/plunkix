@@ -1,21 +1,17 @@
-## 👋 Hi, I'm Srushti — Innovating with Tech and Purpose
+# 👋 Hey, I'm Srushti!
 
-### 🔥 About Me
-- 🎮 **Game Developer** — Currently building *Glitch Descent*, a text-based cyberpunk roleplay game focused on immersive storytelling and player choices.
-- 🌱 GermiNet Founder — Creating an advanced platform that leverages Computer Vision to drive smarter, more sustainable farming solutions.
-- 💬 **Mental Health Advocate** — Building *SpiderCare*, a mental health chatbot designed to support students navigating academic stress and personal challenges.
+I'm a Computer Vision + AI enthusiast with a background in biotechnology. I build tools and models that solve real-world problems — from agriculture to mental health.
 
-### 💡 Focus Areas
-- 💻 **Software Development** — Crafting web apps, interactive games, and user-centric digital experiences.
-- 🌐 **Web Development** — Proficient in frontend design and backend integration.
-- 🧠 **AI for Impact** — Leveraging AI to support mental health and sustainable agriculture innovations.
+### 🚀 Projects I'm Working On
+- **GermiNet** – A CV-based system for seed germination analysis in farming
+- **SpiderCare** – An AI-powered chatbot for mental health support
+- **COCO-Polygon-Optimizer** – A tool to convert segmentation masks to COCO polygons
+- **Glitch Descent** – A text-based cyberpunk game focused on choice and chaos
 
-### 🔧 Tech Stack
-- 🔥 **Languages:** HTML, CSS, JavaScript
-- 🛠️ **Tools:** Vercel, MongoDB, Git
+### 🧠 Interests
+Computer Vision · Deep Learning · AI for Impact · Creative Tech · Narrative Games
 
-### 📫 Let’s Connect!
-- 🔗 [Portfolio](https://plunkix.github.io/srushti-lore.github.io/)
+### 📫 Connect With Me
+[🌐 Portfolio](https://plunkix.github.io/srushti-lore.github.io/)
 
-🚀 **Let’s build technology that matters — from immersive games to impactful AI solutions.**
 
