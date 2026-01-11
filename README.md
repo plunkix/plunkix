@@ -13,6 +13,6 @@ I'm a Computer Vision + AI enthusiast with a background in biotechnology. I buil
 Computer Vision · Deep Learning · AI for Impact · Creative Tech · Narrative Games
 
 ###  Connect With Me
-[🌐 Portfolio](ifelsecry.xyz)
+[🌐 Portfolio](https://ifelsecry.xyz/)
 
 
