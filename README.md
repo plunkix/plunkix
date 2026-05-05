@@ -2,7 +2,7 @@
 
 I'm an ML Engineer blending artificial intelligence with biotechnology. Right now, my main focus is on bioprocesses, hybrid modeling, and building digital twins. 
 
-Before pivoting to biopharma, I spent a lot of time building computer vision systems for agriculture—so I still have a solid background in CV and image processing.
+Before pivoting to biopharma, I spent a lot of time building computer vision systems for agriculture. So I still have a solid background in CV and image processing.
 
 ### 🔭 What I'm Up To
 - Working on hybrid modeling and digital twins for bioprocesses.
